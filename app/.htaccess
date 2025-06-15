@@ -1,0 +1,4 @@
+<Directory "c:/xampp/htdocs">
+    ...
+    AllowOverride All
+</Directory>

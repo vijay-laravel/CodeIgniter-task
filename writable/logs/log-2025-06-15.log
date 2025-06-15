@@ -1,0 +1,65 @@
+CRITICAL - 2025-06-15 06:27:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "search_results.php"
+[Method: POST, Route: search/fetch]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('search_results.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('search_results', [], true)
+ 3 APPPATH\Controllers\Search.php(38): view('search_results', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Search->fetch()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Search))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\codeigniter4-framework-d021b04\\public\\index.php')
+CRITICAL - 2025-06-15 08:06:00 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "search_results.php"
+[Method: POST, Route: search/fetch]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('search_results.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('search_results', [], true)
+ 3 APPPATH\Controllers\Search.php(40): view('search_results', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Search->fetch()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Search))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\codeigniter4-framework-d021b04\\public\\index.php')
+CRITICAL - 2025-06-15 08:06:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "search_results.php"
+[Method: POST, Route: search/fetch]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('search_results.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('search_results', [], true)
+ 3 APPPATH\Controllers\Search.php(39): view('search_results', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Search->fetch()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Search))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\codeigniter4-framework-d021b04\\public\\index.php')
+CRITICAL - 2025-06-15 08:06:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "search_results.php"
+[Method: POST, Route: search/fetch]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('search_results.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('search_results', [], true)
+ 3 APPPATH\Controllers\Search.php(39): view('search_results', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Search->fetch()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Search))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\codeigniter4-framework-d021b04\\public\\index.php')
+CRITICAL - 2025-06-15 08:10:06 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "search_results.php"
+[Method: POST, Route: search/fetch]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('search_results.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('search_results', [], true)
+ 3 APPPATH\Controllers\Search.php(38): view('search_results', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Search->fetch()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Search))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\codeigniter4-framework-d021b04\\public\\index.php')
